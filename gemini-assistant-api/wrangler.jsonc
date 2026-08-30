@@ -1,0 +1,31 @@
+{
+  "name": "gemini-assistant-api",
+  "main": "src/worker.js",
+  "workers_dev": true,
+  "preview_urls": false,
+  "compatibility_date": "2026-08-17",
+  "placement": {
+    "region": "gcp:asia-southeast1"
+  },
+  "observability": {
+    "enabled": true,
+    "head_sampling_rate": 1,
+    "logs": {
+      "enabled": true,
+      "head_sampling_rate": 1,
+      "persist": true,
+      "invocation_logs": true
+    },
+    "traces": {
+      "enabled": true,
+      "persist": true,
+      "head_sampling_rate": 1
+    }
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "4fcbc1f6-b20c-43e5-b13f-53ce35d698e9"
+    }
+  ]
+}
