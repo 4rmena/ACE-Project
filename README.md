@@ -172,8 +172,12 @@ Please follow the existing code style and include tests for new features.
 
 ## License
 
-Specify your license here (e.g., MIT). If this repo has no license file, add one or clarify the intended license.
+Copyright (c) 2026 4rmena
 
-## Contact
+All rights reserved.
 
-If you need help or want changes, open an Issue on the repository or contact the maintainer.
+This repository and its contents, including source code, documentation, and original materials, are the intellectual property of the copyright holder unless otherwise stated.
+
+Permission is not granted to copy, modify, distribute, sublicense, publish, or use this software or its contents for commercial purposes without prior written permission from the copyright holder.
+
+Third-party libraries, services, APIs, models, datasets, and other materials included in or referenced by this project remain subject to their respective licenses and terms.
