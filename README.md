@@ -159,20 +159,18 @@ If you use CI/CD, integrate `wrangler publish` into your pipeline and store secr
 - Consider using Cloudflare Workers KV or Durable Objects for rate limiting and request counting.
 - Never commit provider API keys into repo. Use secrets or environment bindings.
 
-## Contributing
+## Feedback & Suggestions
 
-Contributions are welcome. Suggested workflow:
+Suggestions, feedback, and ideas for improving this project are welcome.
 
-1. Fork the repository
-2. Create a feature branch (git checkout -b feat/your-feature)
-3. Run tests and linters
-4. Open a Pull Request with a clear description
+If you notice a bug, have an idea for a feature, or see an area where the code could be improved, feel free to open an Issue or start a Discussion.
 
-Please follow the existing code style and include tests for new features.
+Please note that submitting suggestions does not grant permission to copy, modify, redistribute, or commercially use the project's source code. The source code remains subject to the license stated above.
+
 
 ## License
 
-Copyright (c) 2026 4rmena
+Copyright (c) 2026 F.A. Monreal 
 
 All rights reserved.
 
