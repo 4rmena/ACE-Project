@@ -18,7 +18,7 @@ A lightweight Cloudflare Worker backend that exposes an HTTP API for an assistan
 - [Deployment](#deployment)
 - [Testing](#testing)
 - [Security & Rate Limiting](#security--rate-limiting)
-- [Feedback & Suggestions](#feedback---suggestions)
+- [Feedback & Suggestions](#feedback--suggestions)
 - [License](#license)
 - [Contact](#contact)
 
