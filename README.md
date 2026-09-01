@@ -166,16 +166,3 @@ Suggestions, feedback, and ideas for improving this project are welcome.
 If you notice a bug, have an idea for a feature, or see an area where the code could be improved, feel free to open an Issue or start a Discussion.
 
 Please note that submitting suggestions does not grant permission to copy, modify, redistribute, or commercially use the project's source code. The source code remains subject to the license stated above.
-
-
-## License
-
-Copyright (c) 2026 4rmena
-
-All rights reserved.
-
-This repository and its contents, including source code, documentation, and original materials, are the intellectual property of the copyright holder unless otherwise stated.
-
-Permission is not granted to copy, modify, distribute, sublicense, publish, or use this software or its contents for commercial purposes without prior written permission from the copyright holder.
-
-Third-party libraries, services, APIs, models, datasets, and other materials included in or referenced by this project remain subject to their respective licenses and terms.
